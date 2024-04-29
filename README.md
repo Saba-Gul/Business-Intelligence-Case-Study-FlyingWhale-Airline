@@ -1,7 +1,9 @@
 # FlyingWhale Airline BI Case Study: Analyzing customer flight activity and loyalty history to optimize operations and enhance customer experience.
 
 FlyingWhale Airline, a prominent (fictional) international airline, is seeking to enhance its business intelligence capabilities by analyzing Customer Flight Activity and Customer Loyalty History. The airline is committed to optimizing customer experience, understanding travel patterns, and maximizing the effectiveness of its loyalty programs.
-Black and White Monogram Business Logo
+
+![P Pollutionrr](images/Black and White Monogram Business Logo.png "FlyingWhale Airline")
+
 ## Data
 
 ### Customer Flight Activity
@@ -44,6 +46,8 @@ Black and White Monogram Business Logo
 - Analyze cancellations by education and marital status.
 - Identify which loyalty card members have the lowest enrollment duration among cancellations.
 - Recommend strategies for improving enrollment and retention.
+  
+![P Pollution](images/dashboard.png "FlyingWhale Airline Dashboard")
 
 ## Deliverables
 - Power BI Dashboards and Reports for the scenarios mentioned.
