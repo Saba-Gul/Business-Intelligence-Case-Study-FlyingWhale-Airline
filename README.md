@@ -2,7 +2,7 @@
 
 FlyingWhale Airline, a prominent (fictional) international airline, is seeking to enhance its business intelligence capabilities by analyzing Customer Flight Activity and Customer Loyalty History. The airline is committed to optimizing customer experience, understanding travel patterns, and maximizing the effectiveness of its loyalty programs.
 
-![P Pollutionrr](images/Black and White Monogram Business Logo.png "FlyingWhale Airline")
+![P Pollutionrr](images/Logo.png "FlyingWhale Airline")
 
 ## Data
 
