@@ -47,8 +47,16 @@ FlyingWhale Airline, a prominent (fictional) international airline, is seeking t
 - Identify which loyalty card members have the lowest enrollment duration among cancellations.
 - Recommend strategies for improving enrollment and retention.
   
-![P Pollution](images/dashboard.png "FlyingWhale Airline Dashboard")
+### 4. Insights Derived
+- Seasonal Trends: Most cancellations occur in December, November, and August.
+- Demographic Factors: Bachelor students account for the majority (62.22%) of membership cancellations, followed by married individuals who represent over 50% of cancellations.
+- Loyalty Card Type: Variations in cancellation durations exist among different loyalty card types, with the Star card having the highest average enrollment duration among cancellations.
+- Gender Disparities: The total sum of flights booked is higher for males than females, with significant proportions of flights booked by Star card members in the male gender category.
+- Companion Bookings: Members redeem significantly higher average points for companion bookings compared to individual travelers.
+- Retention Strategies: Proactive retention strategies tailored to demographic and behavioral patterns can help mitigate cancellations and enhance customer loyalty.
 
+  ![P Pollution](images/dashboard.png "FlyingWhale Airline Dashboard")
+  
 ## Deliverables
 - Power BI Dashboards and Reports for the scenarios mentioned.
 - A comprehensive presentation summarizing key findings and recommendations.
